@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Eclectic</title>
+  <title>The Eclectic</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <style>
     /* Reset */
@@ -61,7 +61,7 @@
 
   <!-- Navbar -->
   <header>
-    <img src="logo.svg" alt="Eclectic Hub Logo">
+    <img src="logo.svg" alt="The Eclectic Hub Logo">
     <nav>
       <a href="#home">Home</a>
       <a href="#youtube">YouTube</a>
