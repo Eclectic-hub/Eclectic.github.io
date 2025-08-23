@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>The Eclectic Hub</title>
+  <title>Eclectic</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <style>
     /* Reset */
@@ -61,7 +61,7 @@
 
   <!-- Navbar -->
   <header>
-    <img src="logo.svg" alt="The Eclectic Hub Logo">
+    <img src="logo.svg" alt="Eclectic Hub Logo">
     <nav>
       <a href="#home">Home</a>
       <a href="#youtube">YouTube</a>
@@ -84,7 +84,7 @@
     <h2>Latest from Our YouTube Channel</h2>
     <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=CHANNEL_ID" allowfullscreen></iframe>
     <div style="text-align:center;margin-top:1rem;">
-      <a href="https://www.youtube.com/@YourChannel" target="_blank" class="btn">Visit Channel</a>
+      <a href="https://www.youtube.com/@Eclectic-hub" target="_blank" class="btn">Visit Channel</a>
     </div>
   </section>
 
