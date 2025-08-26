@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>The Eclectic</title>
+  <title>Eclectic</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <style>
     /* Reset */
@@ -84,7 +84,7 @@
     <h2>Latest from Our YouTube Channel</h2>
     <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=CHANNEL_ID" allowfullscreen></iframe>
     <div style="text-align:center;margin-top:1rem;">
-      <a href="https://www.youtube.com/@Eclectic-hub" target="_blank" class="btn">Visit Channel</a>
+      <a href="https://www.youtube.com/@Eclectic" target="_blank" class="btn">Visit Channel</a>
     </div>
   </section>
 
@@ -146,7 +146,7 @@
 
   <!-- Signup -->
   <section class="signup">
-    <h2>Join The Eclectic Hub Community</h2>
+    <h2>Join Eclectic Community</h2>
     <p>Get updates, tips, and exclusive offers directly to your inbox.</p>
     <form>
       <input type="email" placeholder="Enter your email" required>
@@ -160,7 +160,7 @@
       <a href="#">Facebook</a> | <a href="#">Twitter</a> | <a href="#">Instagram</a>
     </p>
     <p>Affiliate Disclaimer: Some of the links on this site may be affiliate links. We may earn a commission at no extra cost to you.</p>
-    <p>&copy; 2025 The Eclectic Hub. All rights reserved.</p>
+    <p>&copy; 2025 The Eclectic. All rights reserved.</p>
   </footer>
 
   <!-- Exit Popup -->
